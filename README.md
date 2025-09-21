@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Markjil</h1>
-<h3 align="center">A passionate frontend developer from Davao</h3>
+<h3 align="center">A passionate UI/UX designer and frontend developer from Davao</h3>
 
-- 🔭 I’m currently working on **UM Technical support**
+- 🔭 I’m currently working on **My Hobbies**
 
 - 🌱 I’m currently learning **Python, Java prog**
 
-- 👯 I’m looking to collaborate on **Mr. Simson**
+- 👯 I’m looking to collaborate on **Best Creators of Web Designs**
 
-- 🤝 I’m looking for help with **Transmitter**
+- 🤝 I’m looking for help with **Web Designers**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
 - 📝 I regularly write articles on [facebook](facebook)
-
-- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **saytasmarkjil@gmail.com**
 
